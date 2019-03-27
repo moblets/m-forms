@@ -1,7 +1,7 @@
 /* eslint no-undef: [0]*/
 
 module.exports = {
-  title: "mRewards",
+  title: "mForms",
   style: "m-forms.less",
   template: 'm-forms.html',
   i18n: {
