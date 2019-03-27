@@ -1,8 +1,8 @@
 {
   "moblet": {
-    "label": "Fidelidad",
-    "hint": "Fidelice a sus clientes",
-    "description": "Funcionalidad de la fidelidad"
+    "label": "Formulario",
+    "hint": "Formulario con campos personalizados",
+    "description": "Funcionalidad de Formulario con campos personalizados"
   },
   "button": {
     "label": "Gestionar"

@@ -2,8 +2,8 @@
 
 module.exports = {
   title: "mRewards",
-  style: "m-rewards.less",
-  template: 'm-rewards.html',
+  style: "m-forms.less",
+  template: 'm-forms.html',
   i18n: {
     pt: "lang/pt-BR.json",
     es: "lang/es-ES.json",

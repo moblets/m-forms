@@ -1,5 +1,5 @@
 {
-  "name": "m-rewards",
+  "name": "m-forms",
   "version": "1.0.0",
   "description": "This is a rewards moblet for Moblets and FabApp. You can use it as base to create a new one.",
   "main": "server/feed.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moblets/m-rewards.git"
+    "url": "git+https://github.com/moblets/m-forms.git"
   },
   "author": "Eduardo Russo",
   "license": "MIT",
-  "homepage": "https://github.com/moblets/m-rewards.git",
+  "homepage": "https://github.com/moblets/m-forms.git",
   "devDependencies": {
     "cz-conventional-changelog": "^1.2.0",
     "eslint": "^2.8.0",

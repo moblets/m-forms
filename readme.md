@@ -10,4 +10,4 @@ Moblets' name comes from _Mobile_ + _Widgets_. It's a project created to simplif
 ## Structure
 As Moblets is based on Apache Cordova, the apps are hybrid and it's moblets are created with HTML, CSS and JavaScript. Moblets' apps have a base prepared to receive a predefined structure and work with it.
 
-This is the folder structure of m-rewards moblet:
+This is the folder structure of m-forms moblet:

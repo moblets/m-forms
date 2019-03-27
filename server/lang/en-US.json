@@ -1,8 +1,8 @@
 {
   "moblet": {
-    "label": "Fidelity",
-    "hint": "Fidelize your customers",
-    "description": "Fidelity Functionality"
+    "label": "Form",
+    "hint": "Form with custom fields",
+    "description": "Form Functionality with custom fields"
   },
   "button": {
     "label": "Manage"
