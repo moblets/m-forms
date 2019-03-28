@@ -4,7 +4,14 @@
     "hint": "Form with custom fields",
     "description": "Form Functionality with custom fields"
   },
-  "button": {
-    "label": "Manage"
+  "title": {
+    "label": "Title",
+    "hint": "Form title",
+    "placeholder": "Title"
+  },
+  "description": {
+    "label": "Description",
+    "hint": "Fill with the form description",
+    "placeholder": "Form description"
   }
 }

@@ -4,7 +4,14 @@
     "hint": "Formulário com campos customizados",
     "description": "Funcionalidade de Formulário com campos customizados"    
   },
-  "button": {
-    "label": "Gerenciar"
+  "title": {
+    "label": "Título",
+    "hint": "Título do formulário",
+    "placeholder": "Título"
+  },
+  "description": {
+    "label": "Descrição",
+    "hint": "Preencha com a descricão do formulário",
+    "placeholder": "Descricão do formulário"
   }
 }
