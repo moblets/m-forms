@@ -17,6 +17,10 @@
     {
       "name": "login",
       "type": "toggle"
+    },
+    {
+      "name": "new-field",
+      "type": "button"
     }
   ]
 }

@@ -16,5 +16,10 @@
   },
   "login": {
     "label": "Requerir inicio de sesión de usuario para responder"
+  },
+  "new-field": {
+    "label": "Add field",
+    "content": "New",
+    "icon": "plus-circle"
   }
 }

@@ -16,5 +16,10 @@
   },
   "login": {
     "label": "Exigir login de usuário para responder"
+  },
+  "new-field": {
+    "label": "Adicionar campo",
+    "content": "Novo",
+    "icon": "plus-circle"
   }
 }

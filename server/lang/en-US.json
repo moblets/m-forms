@@ -16,5 +16,10 @@
   },
   "login": {
     "label": "Require user login to submit"
+  },
+  "new-field": {
+    "label": "Add field",
+    "content": "New",
+    "icon": "plus-circle"
   }
 }
