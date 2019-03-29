@@ -15,7 +15,7 @@
       "max_size": 5000000
     },
     {
-      "name": "login",
+      "name": "login_required",
       "type": "toggle"
     },
     {

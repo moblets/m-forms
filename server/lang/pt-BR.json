@@ -14,7 +14,7 @@
     "hint": "Preencha com a descricão do formulário",
     "placeholder": "Descricão do formulário"
   },
-  "login": {
+  "login_required": {
     "label": "Exigir login de usuário para responder"
   },
   "new-field": {
