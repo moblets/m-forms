@@ -20,6 +20,6 @@
   "new-field": {
     "label": "Add field",
     "content": "New",
-    "icon": "plus-circle"
+    "icon": "icon-plus-circle"
   }
 }
