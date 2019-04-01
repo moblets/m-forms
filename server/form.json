@@ -20,7 +20,7 @@
     },
     {
       "name": "fields",
-      "type": "fields"
+      "type": "form-fields"
     }
   ]
 }
