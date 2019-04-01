@@ -19,8 +19,8 @@
       "type": "toggle"
     },
     {
-      "name": "new-field",
-      "type": "button"
+      "name": "fields",
+      "type": "fields"
     }
   ]
 }

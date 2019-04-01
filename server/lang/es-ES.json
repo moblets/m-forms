@@ -16,10 +16,5 @@
   },
   "login_required": {
     "label": "Requerir inicio de sesión de usuario para responder"
-  },
-  "new-field": {
-    "label": "Add field",
-    "content": "New",
-    "icon": "icon-plus-circle"
   }
 }
