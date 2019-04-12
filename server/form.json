@@ -15,10 +15,6 @@
       "max_size": 5000000
     },
     {
-      "name": "login_required",
-      "type": "toggle"
-    },
-    {
       "name": "fields",
       "type": "form-fields"
     }

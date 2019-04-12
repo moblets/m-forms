@@ -13,8 +13,5 @@
     "label": "Descripción",
     "hint": "Rellene con el descriptor del formulario",
     "placeholder": "Descripcion del formulario"
-  },
-  "login_required": {
-    "label": "Requerir inicio de sesión de usuario para responder"
   }
 }

@@ -13,8 +13,5 @@
     "label": "Description",
     "hint": "Fill with the form description",
     "placeholder": "Form description"
-  },
-  "login_required": {
-    "label": "Require user login to submit"
   }
 }
