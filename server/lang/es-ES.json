@@ -2,7 +2,8 @@
   "moblet": {
     "label": "Formulario",
     "hint": "Formulario con campos personalizados",
-    "description": "Funcionalidad de Formulario con campos personalizados"
+    "description": "Funcionalidad de Formulario con campos personalizados",
+    "tutorial_link": "https://suporte.fabricadeaplicativos.com.br/hc/pt-br/articles/360027216712-Como-adicionar-e-configurar-um-formul%C3%A1rio-no-seu-app"
   },
   "title": {
     "label": "Título",
