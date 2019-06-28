@@ -7,7 +7,8 @@
     },
     {
       "name": "description",
-      "type": "textArea"
+      "type": "textArea",
+      "maxlength": 255
     },
     {
       "name": "cover",
