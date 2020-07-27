@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "name": "title",
+      "type": "text",
+      "maxlength": 20
+    },
+    {
+      "name": "description",
+      "type": "textArea",
+      "maxlength": 255
+    },
+    {
+      "name": "cover",
+      "type": "image",
+      "max_size": 5000000
+    },
+    {
+      "name": "fields",
+      "type": "form-fields"
+    }
+  ]
+}
