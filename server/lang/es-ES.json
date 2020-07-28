@@ -3,7 +3,8 @@
     "label": "Formulario",
     "hint": "Formulario con campos personalizados",
     "description": "Funcionalidad de Formulario con campos personalizados",
-    "tutorial_link": "http://ajuda.fabapp.com/pt-BR/articles/3783284-formulario"
+    "tutorial_link": "http://ajuda.fabapp.com/pt-BR/articles/3783284-formulario",
+    "version": 2
   },
   "title": {
     "label": "Título",

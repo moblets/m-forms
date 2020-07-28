@@ -2,22 +2,33 @@
   "fields": [
     {
       "name": "title",
-      "type": "text",
-      "maxlength": 20
+      "type": "input",
+      "inputType": "text",
+      "maxlength": 20,
+      "validations": [{ "name": "maxLength", "value": 20 }]
     },
     {
       "name": "description",
-      "type": "textArea",
-      "maxlength": 255
+      "type": "textarea",
+      "matAutosizeMinRows": 5,
+      "matAutosizeMaxRows": 10,
+      "maxlength": 255,
+      "validations": [{ "name": "maxLength", "value": 255 }]
     },
     {
       "name": "cover",
-      "type": "image",
-      "max_size": 5000000
+      "type": "imageUploader",
+      "api": "m-forms",
+      "fileConfig": [
+        { "title": "maxSize", "value": "5MB" },
+        { "title": "fileFormat", "value": "PNG, JPG, JPEG" }
+      ],
+      "formats": ["image/png", "image/jpg", "image/jpeg", "image/gif"],
+      "maxSize": 5000000
     },
     {
       "name": "fields",
-      "type": "form-fields"
+      "type": "formFields"
     }
   ]
 }
